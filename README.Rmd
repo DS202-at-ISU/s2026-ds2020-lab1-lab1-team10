@@ -30,20 +30,18 @@ Kyle's Notes:
 - I did not have any issues saving & committing my changes.
 - I was also able to knit my changes to the .Rmd file and it saved them in the .md file too.
 
-<<<<<<< HEAD
-
 Nick's note: 2/11 note
 - A merge commit and merge conflict resolve was necessary since multiple team members were working on the same branch
 
-=======
 Mariana's Notes:
 This is a line from RStudio.
   
->>>>>>> 51be1696e94d22216bcf28eed7feeb6d85ca15e0
 ### Step 12.5
 Kyle's Notes:
 
 - I did not have any issues pushing my local changes to GitHub.
+
+Nick's Notes: No issues pushing once merge conflict was resolved
 
 ### Step 12.6
 Kyle's Notes:
