@@ -81,6 +81,8 @@ Mariana's Notes:
 - I had some issues commiting my changes because it did not recognize my email, so I had to configure my email on git, and then I was able to commit.
   
 ### Step 12.5
+Chai's Note: I did not have any issues pushing the changes.
+
 Kyle's Notes:
 
 - I did not have any issues pushing my local changes to GitHub.

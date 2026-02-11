@@ -90,6 +90,8 @@ Mariana’s Notes:
 
 ### Step 12.5
 
+Chai’s Note: I did not have any issues pushing the changes.
+
 Kyle’s Notes:
 
 - I did not have any issues pushing my local changes to GitHub.
