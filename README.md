@@ -38,6 +38,9 @@ Nick’s Notes: - Git installed already
 
 ### Step 12.2
 
+Chai’s Note: The repository already created by the instructor so no
+issues found.
+
 Kyle’s Notes:
 
 - I had no issues connecting to my team’s repo through github classroom.
