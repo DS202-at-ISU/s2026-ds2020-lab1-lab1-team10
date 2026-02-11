@@ -28,6 +28,9 @@ Mariana's Notes:
 
 - I already had Git installed, so I did not have any issues.
 
+Nick's Notes:
+- Git installed already
+
 ### Step 12.2
 Kyle's Notes:
 
@@ -36,6 +39,9 @@ Kyle's Notes:
 Mariana's Notes:
 
 - I did not have any issues connecting with my team's repo.
+
+Nick's Notes:
+- No issues connecting
 
 ### Step 12.3
 Kyle's Notes:
@@ -46,6 +52,10 @@ Mariana's Notes:
 
 - I did not have any issues cloning the repo to my computer.
 
+
+Nick's Notes:
+- No issues cloning
+
 ### Step 12.4
 Kyle's Notes:
 
@@ -53,7 +63,7 @@ Kyle's Notes:
 - I did not have any issues saving & committing my changes.
 - I was also able to knit my changes to the .Rmd file and it saved them in the .md file too.
 
-Nick's note: 2/11 note
+Nick's note:
 - A merge commit and merge conflict resolve was necessary since multiple team members were working on the same branch
 
 Mariana's Notes:
