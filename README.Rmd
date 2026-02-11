@@ -36,12 +36,15 @@ Kyle's Notes:
 - I was also able to knit my changes to the .Rmd file and it saved them in the .md file too.
 
 Mariana's Notes:
-This is a line from RStudio.
+- This is a line from RStudio.
   
 ### Step 12.5
 Kyle's Notes:
 
 - I did not have any issues pushing my local changes to GitHub.
+
+Mariana's Notes:
+- I had some issues pushing the changes because I did not have the updated version of the files, so I had to pull before pushing my local changes.
 
 ### Step 12.6
 <<<<<<< HEAD
@@ -50,4 +53,7 @@ Kyle's Notes:
 Kyle's Notes:
 
 - I did not have any issues viewing my changes on the GitHub Repo website.
+
+Mariana's Notes:
+- After pushing, I was able to see my changes on the GitHub Repo website.
 >>>>>>> bc922c198752ac5b97499f922a92341a88fe51b6
