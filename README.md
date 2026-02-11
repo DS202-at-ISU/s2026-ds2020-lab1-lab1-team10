@@ -68,6 +68,9 @@ Nick’s Notes: - No issues cloning
 
 ### Step 12.4
 
+Chai’s Note: This is from R studio. There was an issue with branches,
+which is fixed now.
+
 Kyle’s Notes:
 
 - *This is a line from RStudio.*
