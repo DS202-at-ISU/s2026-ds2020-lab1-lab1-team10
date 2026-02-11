@@ -44,6 +44,7 @@ Mariana’s Notes: - I did not have any issues connecting with my team’s
 repo.
 
 ### Step 12.3
+
 Chai's Note: I have cloned the test GitHub repository to my computer via RStudio and there were no issues in doing that.
 
 Kyle’s Notes:
