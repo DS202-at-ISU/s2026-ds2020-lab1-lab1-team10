@@ -4,17 +4,22 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Lab report #1
 
-Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
+Follow the instructions posted at <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
-Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.  
+Include your answers in this document (Rmd file). Make sure that it knits properly (into the md file). Upload both the Rmd and the md file to your repository.
 
+<<<<<<< HEAD
+All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+Mariana's note:
+This is a line from RStudio.
+=======
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
@@ -25,10 +30,16 @@ Kyle's Notes:
 - I did not have any issues saving & committing my changes.
 - I was also able to knit my changes to the .Rmd file and it saved them in the .md file too.
 
+<<<<<<< HEAD
 
 Nick's note: 2/11 note
 - A merge commit and merge conflict resolve was necessary since multiple team members were working on the same branch
 
+=======
+Mariana's Notes:
+This is a line from RStudio.
+  
+>>>>>>> 51be1696e94d22216bcf28eed7feeb6d85ca15e0
 ### Step 12.5
 Kyle's Notes:
 
