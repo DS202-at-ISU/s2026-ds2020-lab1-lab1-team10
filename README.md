@@ -106,6 +106,9 @@ Nick’s Notes: No issues pushing once merge conflict was resolved
 
 ### Step 12.6
 
+Chai’s Note: No issues in checking the changes made in R studio, just
+have to refresh after each change, and check if it is working.
+
 Kyle’s Notes:
 
 - I did not have any issues viewing my changes on the GitHub Repo
