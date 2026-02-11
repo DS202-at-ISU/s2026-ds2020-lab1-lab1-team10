@@ -24,6 +24,7 @@ submission per team) to signal to the instructors that you are done with
 your submission.
 
 ### Step 12.1
+Chai's Note: I already linked my Git account.
 
 Kyle’s Notes:
 
