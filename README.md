@@ -123,6 +123,8 @@ Nick’s Notes: Confirm all changes are visible on the github repo.
 
 ### Step 12.7
 
+Chai’s Note: Skipped this step.
+
 Kyle’s Notes:
 
 - Did not do this step as stated in the lab instructions.
