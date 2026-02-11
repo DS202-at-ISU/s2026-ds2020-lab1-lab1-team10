@@ -27,9 +27,14 @@ Kyle’s Notes:
 
 - I already had everything installed, so I ran into no issues there.
 
+<<<<<<< HEAD
 Mariana’s Notes:
 
 - I already had Git installed, so I did not have any issues.
+=======
+Mariana’s Notes: - I already had Git installed, so I did not have any
+issues.
+>>>>>>> cdec1d720a2138736152bb886922355db362f125
 
 ### Step 12.2
 
@@ -37,9 +42,14 @@ Kyle’s Notes:
 
 - I had no issues connecting to my team’s repo through github classroom.
 
+<<<<<<< HEAD
 Mariana’s Notes:
 
 - I did not have any issues connecting with my team’s repo.
+=======
+Mariana’s Notes: - I did not have any issues connecting with my team’s
+repo.
+>>>>>>> cdec1d720a2138736152bb886922355db362f125
 
 ### Step 12.3
 
@@ -47,9 +57,14 @@ Kyle’s Notes:
 
 - I had no issues cloning the repo onto my machine.
 
+<<<<<<< HEAD
 Mariana’s Notes:
 
 - I did not have any issues cloning the repo to my computer.
+=======
+Mariana’s Notes: - I did not have any issues cloning the repo to my
+computer.
+>>>>>>> cdec1d720a2138736152bb886922355db362f125
 
 ### Step 12.4
 
@@ -63,12 +78,18 @@ Kyle’s Notes:
 Nick’s note: 2/11 note - A merge commit and merge conflict resolve was
 necessary since multiple team members were working on the same branch
 
+<<<<<<< HEAD
 Mariana’s Notes:
 
 - This is a line from RStudio.
 - I had some issues commiting my changes because it did not recognize my
   email, so I had to configure my email on git, and then I was able to
   commit.
+=======
+Mariana’s Notes: - This is a line from RStudio. - I had some issues
+commiting my changes because it did not recognize my email, so I had to
+configure my email on git, and then I was able to commit.
+>>>>>>> cdec1d720a2138736152bb886922355db362f125
 
 ### Step 12.5
 
@@ -103,6 +124,10 @@ Kyle’s Notes:
 
 - Did not do this step as stated in the lab instructions.
 
+<<<<<<< HEAD
 Mariana’s Notes:
 
 - Step ignored, as per lab instructions.
+=======
+Mariana’s Notes: - Step ignored, as per lab instructions.
+>>>>>>> cdec1d720a2138736152bb886922355db362f125
