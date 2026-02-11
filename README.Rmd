@@ -24,6 +24,10 @@ All submissions to the github repo will be automatically uploaded for grading on
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
 
+<<<<<<< HEAD
+12.4: 
+Nick's note: 2/11 note
+=======
 ### Step 12.4
 Kyle's Notes:
 
@@ -40,6 +44,9 @@ Kyle's Notes:
 - I did not have any issues pushing my local changes to GitHub.
 
 ### Step 12.6
+<<<<<<< HEAD
+>>>>>>> 88c7078b29e1b7663d080ecc0c4ddef8531f23a1
+=======
 Kyle's Notes:
 
 - I did not have any issues viewing my changes on the GitHub Repo website.
