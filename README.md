@@ -132,3 +132,5 @@ Kyle’s Notes:
 Mariana’s Notes:
 
 - Step ignored, as per lab instructions.
+
+Nick’s Notes: - Ignored step
