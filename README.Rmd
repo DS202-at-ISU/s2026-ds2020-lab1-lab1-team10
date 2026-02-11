@@ -24,10 +24,22 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 Nick's note: 2/11 note
 =======
 ### Step 12.4
-Kyle's Note:
-  This is a line from RStudio
+Kyle's Notes:
+
+- *This is a line from RStudio.*
+- I did not have any issues saving & committing my changes.
+- I was also able to knit my changes to the .Rmd file and it saved them in the .md file too.
   
 ### Step 12.5
+Kyle's Notes:
+
+- I did not have any issues pushing my local changes to GitHub.
 
 ### Step 12.6
+<<<<<<< HEAD
 >>>>>>> 88c7078b29e1b7663d080ecc0c4ddef8531f23a1
+=======
+Kyle's Notes:
+
+- I did not have any issues viewing my changes on the GitHub Repo website.
+>>>>>>> bc922c198752ac5b97499f922a92341a88fe51b6
