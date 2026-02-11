@@ -47,3 +47,5 @@ Nick's Notes: No issues pushing once merge conflict was resolved
 Kyle's Notes:
 
 - I did not have any issues viewing my changes on the GitHub Repo website.
+
+Nick's Notes: Confirm all changes are visible on the github repo.
