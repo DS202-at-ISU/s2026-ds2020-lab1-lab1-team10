@@ -34,7 +34,7 @@ Mariana’s Notes: - I already had Git installed, so I did not have any
 issues.
 
 ### Step 12.2
-Chai'Note: The repository is already created by the instructor. No issues.
+Chai'Note: The repository is already created by the instructor. No issues
 
 Kyle’s Notes:
 
