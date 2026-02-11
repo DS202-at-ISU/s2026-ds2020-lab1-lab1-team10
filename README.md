@@ -22,6 +22,7 @@ repository on Canvas (only one submission per team) to signal to the
 instructors that you are done with your submission.
 
 ### Step 12.1
+Chai's Note: I already linked my Git account.
 
 Kyle’s Notes:
 
@@ -37,6 +38,7 @@ issues.
 >>>>>>> cdec1d720a2138736152bb886922355db362f125
 
 ### Step 12.2
+Chai'Note: The repository is already created by the instructor. No issues.
 
 Kyle’s Notes:
 
